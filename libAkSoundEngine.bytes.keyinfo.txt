@@ -1,0 +1,12 @@
+MonToolkit - SoEncryptor key info
+================================
+Original file: libAkSoundEngine.bytes.so
+Encrypted file: libAkSoundEngine.bytes.so.enc
+Cipher: AES-256-CTR
+IV: first 16 bytes of libAkSoundEngine.bytes.so.enc
+
+AES-256 key (Base64):
+wBNT0DtXU4+pg1LX8QFhEtQoVSP9r3IBgdajwtS8GL0=
+
+Keep this file safe and private. Anyone with this key can decrypt libAkSoundEngine.bytes.so.enc.
+Without it, libAkSoundEngine.bytes.so.enc can never be decrypted again.
